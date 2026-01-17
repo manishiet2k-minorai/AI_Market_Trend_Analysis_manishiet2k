@@ -1,0 +1,2 @@
+# AI_Market_Trend_Analysis_manishiet2k
+AI_Market_Trend_Analysis project submitted by Manish Kumar Singh
